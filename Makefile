@@ -5,6 +5,6 @@ build:
 	hugo
 	
 deploy: build
-	rsync -avz --delete ./public/ slack.it:~/html/hugo/
+	rsync -avz --delete ./public/ slack.it:~/html
 	
 .PHONY: server build deploy
