@@ -1,0 +1,3 @@
+baseURL = 'http://slack.it/'
+languageCode = 'en-us'
+title = 'slack.it'
