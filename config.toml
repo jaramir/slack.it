@@ -9,12 +9,11 @@ disableKinds = ["taxonomy", "term"]
 [[module.imports]]
     path = "github.com/jpanther/lynx"
 
-[author]
+[params.author]
     name = "Francesco Gigli"
     headline = "geek"
     image = "avatar.jpg"
     links = [
-        { 1f9f2 = { href = "https://magnetic.slack.it/", text = "Magnetic Poetry" }},
         { telegram = "https://t.me/cesco_tg" },
         { github = "https://github.com/jaramir" },
         { facebook = "https://www.facebook.com/cesco" },
