@@ -14,9 +14,9 @@ disableKinds = ["taxonomy", "term"]
     headline = "geek"
     image = "avatar.jpg"
     links = [
-        { telegram = "https://t.me/cesco_tg" },
+        { bluesky = "https://bsky.app/profile/slack.it" },
         { github = "https://github.com/jaramir" },
         { facebook = "https://www.facebook.com/cesco" },
-        { twitter = "https://twitter.com/jaramir" },
+        { telegram = "https://t.me/cesco_tg" },
         { instagram = "https://www.instagram.com/jaramir" }
     ]
